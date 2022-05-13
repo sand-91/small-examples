@@ -1,5 +1,4 @@
-#python program to find factorial of number provided by user
-# Python program to find the factorial of a number provided by the user.
+#Python program to find the factorial of a number provided by the user.
 
 # To take input from the user
 num = int(input("Enter a number: "))
